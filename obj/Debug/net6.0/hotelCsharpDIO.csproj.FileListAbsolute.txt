@@ -1,0 +1,15 @@
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\bin\Debug\net6.0\hotelCsharpDIO.exe
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\bin\Debug\net6.0\hotelCsharpDIO.deps.json
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\bin\Debug\net6.0\hotelCsharpDIO.runtimeconfig.json
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\bin\Debug\net6.0\hotelCsharpDIO.dll
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\bin\Debug\net6.0\hotelCsharpDIO.pdb
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\obj\Debug\net6.0\hotelCsharpDIO.csproj.AssemblyReference.cache
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\obj\Debug\net6.0\hotelCsharpDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\obj\Debug\net6.0\hotelCsharpDIO.AssemblyInfoInputs.cache
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\obj\Debug\net6.0\hotelCsharpDIO.AssemblyInfo.cs
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\obj\Debug\net6.0\hotelCsharpDIO.csproj.CoreCompileInputs.cache
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\obj\Debug\net6.0\hotelCsharpDIO.dll
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\obj\Debug\net6.0\refint\hotelCsharpDIO.dll
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\obj\Debug\net6.0\hotelCsharpDIO.pdb
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\obj\Debug\net6.0\hotelCsharpDIO.genruntimeconfig.cache
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\hotelCsharpDIO\obj\Debug\net6.0\ref\hotelCsharpDIO.dll
